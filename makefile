@@ -8,4 +8,3 @@ run: compile
 
 clean:
 	del /F /Q prog.exe
-s
